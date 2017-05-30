@@ -1,3 +1,4 @@
-# My Awesome Book
+# 3D-e-Chem KNIME Nodes for Integrated Structural Cheminformatics Analyses and Computer-Aided Drug Discovery
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+The tutorialis set up to stimulate participants with varying degrees of experience in chemoinformatics to learn and apply the different structural chemoinformatics tools and workflows developed within the context of the 3D-e-Chem project. You will learn how to construct and apply simple and more complex cheminformatics workflows using the 3D-e-Chem KNIME nodes for the exploitation of chemogenomics data from public databases as well as for using ligand- and structure-based modeling tools to obtain useful information for drug discovery in the graphical workflow managing environment off KNIME.
+
