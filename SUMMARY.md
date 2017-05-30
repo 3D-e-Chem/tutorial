@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Software installation](chapter1.md)
+* [Software installation](software-installation.md)
 * [Creating the first workflow to access GPCR data](creating-the-first-workflow-to-access-gpcr-data.md)
 * Viewing GPCR structures
 * GPCR bioactivity data mining
