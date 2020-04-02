@@ -1,4 +1,4 @@
-# Summary
+<!-- docs/_sidebar.md -->
 
 * [Introduction](README.md)
 * [Software installation](software-installation.md)
